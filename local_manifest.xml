@@ -5,7 +5,7 @@
                 fetch="https://github.com/itsaakif" />
 
         <project path="device/xiaomi/ysl" name="device_xiaomi_ysl" remote="aakif" revision="r11.0" clone-depth="1" />
-        <project path="kernel/xiaomi/ysl" name="Perf_Ysl" remote="aakif" revision="Stable" clone-depth="1" />
+        <project path="kernel/xiaomi/ysl" name="Logan_Ysl" remote="aakif" revision="Stable" clone-depth="1" />
         <project path="vendor/xiaomi/ysl" name="android_vendor_xiaomi_ysl" remote="aakif" revision="r11.0" clone-depth="1" />
 
 </manifest>
