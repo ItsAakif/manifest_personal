@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-        <remote  name="sushmit"
-                fetch="https://github.com/sushmit1" />
+        <remote  name="aakif"
+                fetch="https://github.com/itsaakif" />
 
         <project path="device/xiaomi/ysl" name="device_xiaomi_ysl" remote="sushmit" revision="cherish-eleven" clone-depth="1" />
         <project path="kernel/xiaomi/ysl" name="Logan_Ysl" remote="sushmit" revision="Stable" clone-depth="1" />
